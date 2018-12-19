@@ -1,0 +1,13 @@
+table, form {
+	border-collapse: collapse; /* Colapsa (junta) as bordas */
+}
+
+td, th {
+	border: 1px solid black; /* Cria uma borda de 1 pixel, solida e preta */
+	padding: 10px; /* Cria um distaciamento de 10 pixels */
+	text-align: center; /* alinha o texto ao centro */
+}
+
+button {	
+	cursor: pointer; /* Muda o desenho do cursor */
+}
